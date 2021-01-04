@@ -14,7 +14,7 @@
   </ul>
 </nav> -->
 
-<?php $pager->setSurroundCount(2) ?>
+<?php $pager->setSurroundCount(1) ?>
 
 <nav aria-label="Page navigation">
     <ul class="pagination">
